@@ -5,15 +5,15 @@ Este es el repositorio del curso de datos del Punto Digital Trenque Lauquen
 
 ### Clase 1
 
-[Enlace a clase 1](Clases/Clase 1/Clase_1.md)
+[Enlace a clase 1](https://github.com/rje1974/CursoDatosPuntoDigital/blob/master/Clases/Clase_1/Clase_1.md)
 
 ### Clase 2
 
-[Enlace a clase 2](Clases/Clase 2/Clase_2.md)
+[Enlace a clase 2](https://github.com/rje1974/CursoDatosPuntoDigital/blob/master/Clases/Clase_2/Clase_2.md)
 
 ### Clase 3
 
-[Enlace a clase 2](Clases/Clase 2/Clase_2.md)
+[Enlace a clase 2](https://github.com/rje1974/CursoDatosPuntoDigital/blob/master/Clases/Clase_3/Clase_3.md)
 
 ### Clase 4
 
