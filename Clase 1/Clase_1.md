@@ -1,0 +1,1 @@
+[![Clase 1 Python Datos Trenque Lauquen](http://i.imgur.com/d7A5x04.png)](https://youtu.be/ePbqyrxkmuQ)
