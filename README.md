@@ -4,11 +4,17 @@ Este es el repositorio del curso de datos del Punto Digital Trenque Lauquen
 ## Clases
 
 ### Clase 1
-[![Watch the video](/site/Imagenes_Site/youtube.png)](https://youtu.be/XLXWEX2-MHA)
+
+[Enlace a clase 1](Clases/Clase 1/Clase_1.md)
+
 ### Clase 2
-[![Watch the video](/site/Imagenes_Site/youtube.png)](https://youtu.be/XLXWEX2-MHA)
+
+[Enlace a clase 2](Clases/Clase 2/Clase_2.md)
+
 ### Clase 3
-[![Watch the video](/site/Imagenes_Site/youtube.png)](https://youtu.be/XLXWEX2-MHA)
+
+[Enlace a clase 2](Clases/Clase 2/Clase_2.md)
+
 ### Clase 4
 
 ### Clase 5
