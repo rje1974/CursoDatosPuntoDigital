@@ -7,7 +7,10 @@ Este es el repositorio del curso de datos del Punto Digital Trenque Lauquen
 
 ![Una clase](http://i.imgur.com/0ZOhyIw.png "Gente participando del curso")
 
+## Materiales y herramientas
 
+### Jupyter
+[Tutorial de Jupyter Notebook](https://www.programaenpython.com/miscelanea/tutorial-de-jupyter-notebook/)
 
 ## Clases
 
