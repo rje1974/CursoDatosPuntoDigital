@@ -1,0 +1,1 @@
+[![Análisis y modelado de datos Clase 4](http://i.imgur.com/Fj8of89.png)](https://youtu.be/rQ2vMLanpN0)
