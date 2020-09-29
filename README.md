@@ -1,5 +1,5 @@
 # Curso Datos Punto Digital
-Este es el repositorio del curso de datos del Punto Digital Trenque Lauquen
+Este es el repositorio del curso de datos del Punto Digital Trenque Lauquen. Si te queres sumar al grupo de wsp [es por aca](https://chat.whatsapp.com/CKCcn5tTAppHZvSjhzGmXk).
 
 
 ![Imagen](http://i.imgur.com/JWZFuBW.png "cosas")
@@ -28,15 +28,15 @@ Este es el repositorio del curso de datos del Punto Digital Trenque Lauquen
 
 ### Clase 4
 
-[Análisis y modelado de datos Clase 4](https://github.com/rje1974/CursoDatosPuntoDigital/blob/master/Clases/Clase_4/
+[Análisis y modelado de datos Clase 4](https://github.com/rje1974/CursoDatosPuntoDigital/blob/master/Clases/Clase_4/)
 
 ### Clase 5
 
-[Análisis y modelado de datos Clase 5](https://github.com/rje1974/CursoDatosPuntoDigital/blob/master/Clases/Clase_5/
+[Análisis y modelado de datos Clase 5](https://github.com/rje1974/CursoDatosPuntoDigital/blob/master/Clases/Clase_5/)
 
 ### Clase 6
 
-[Análisis y modelado de datos Clase 6](https://github.com/rje1974/CursoDatosPuntoDigital/blob/master/Clases/Clase_6/
+[Análisis y modelado de datos Clase 6](https://github.com/rje1974/CursoDatosPuntoDigital/blob/master/Clases/Clase_6/)
 
 ### Clase 7
 
