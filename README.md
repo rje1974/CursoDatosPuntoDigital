@@ -28,17 +28,19 @@ Este es el repositorio del curso de datos del Punto Digital Trenque Lauquen. Si 
 
 ### Clase 4
 
-[Análisis y modelado de datos Clase 4](https://github.com/rje1974/CursoDatosPuntoDigital/blob/master/Clases/Clase_4/)
+[Análisis y modelado de datos Clase 4](https://github.com/rje1974/CursoDatosPuntoDigital/blob/master/Clases/Clase_4/Clase_4.md)
 
 ### Clase 5
 
-[Análisis y modelado de datos Clase 5](https://github.com/rje1974/CursoDatosPuntoDigital/blob/master/Clases/Clase_5/)
+[Análisis y modelado de datos Clase 5](https://github.com/rje1974/CursoDatosPuntoDigital/blob/master/Clases/Clase_5/Clase_5.md)
 
 ### Clase 6
 
-[Análisis y modelado de datos Clase 6](https://github.com/rje1974/CursoDatosPuntoDigital/blob/master/Clases/Clase_6/)
+[Análisis y modelado de datos Clase 6](https://github.com/rje1974/CursoDatosPuntoDigital/blob/master/Clases/Clase_6/Clase_6.md)
 
 ### Clase 7
+[Análisis y modelado de datos Clase 7](https://github.com/rje1974/CursoDatosPuntoDigital/blob/master/Clases/Clase_7/Clase_7.md)
 
 ### Clase 8
+[Análisis y modelado de datos Clase 8](https://github.com/rje1974/CursoDatosPuntoDigital/blob/master/Clases/Clase_8/Clase_8.md)
 
